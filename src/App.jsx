@@ -78,7 +78,7 @@ function App() {
               </p>
             </div>
             <h3 style={{ marginTop: '20px' }}>Contacto Directo</h3>
-            <p style={{ color: '#4b5563' }}>📞 Tel: 618-123-4567 | ✉️ contacto@clinicdent.com</p>
+            <p style={{ color: '#4b5563' }}>📞 Tel: 618-839-2331 | ✉️ contacto@clinicdent.com</p>
           </div>
 
           <div id="contacto" style={{ flex: '1 1 450px', backgroundColor: '#fff', padding: '30px', borderRadius: '10px', border: '1px solid #e5e7eb' }}>
