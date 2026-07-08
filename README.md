@@ -6,7 +6,7 @@ Instrucciones rápidas:
 
 ```bash
 npm install
-npm run dev
+npm start
 ```
 
 Archivos principales creados:
